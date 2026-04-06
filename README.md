@@ -1,3 +1,5 @@
+[![Watch Demo](https://img.youtube.com/vi/fFDfLm-_pZI/hqdefault.jpg)](https://youtu.be/fFDfLm-_pZI)
+
 # Platonic Solids Parametric Rendering Engine
 
 Run the app in a browser. You need **Node.js** (v18 or newer) installed.
